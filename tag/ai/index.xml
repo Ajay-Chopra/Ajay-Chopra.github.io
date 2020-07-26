@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analysis | Welcome!</title>
-    <link>https://Ajay-Chopra.github.io/tag/data-analysis/</link>
-      <atom:link href="https://Ajay-Chopra.github.io/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Data Analysis</description>
+    <title>AI | Welcome!</title>
+    <link>https://Ajay-Chopra.github.io/tag/ai/</link>
+      <atom:link href="https://Ajay-Chopra.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Ajay-Chopra.github.io/images/icon_hu0d54acaec414762e64ccfaac52416a4d_29709_512x512_fill_lanczos_center_2.png</url>
-      <title>Data Analysis</title>
-      <link>https://Ajay-Chopra.github.io/tag/data-analysis/</link>
+      <title>AI</title>
+      <link>https://Ajay-Chopra.github.io/tag/ai/</link>
     </image>
     
     <item>
-      <title>Analyzing The Transfer Market of the English Premier League</title>
-      <link>https://Ajay-Chopra.github.io/project/epl/</link>
+      <title>Chess AI</title>
+      <link>https://Ajay-Chopra.github.io/project/chess/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Ajay-Chopra.github.io/project/epl/</guid>
+      <guid>https://Ajay-Chopra.github.io/project/chess/</guid>
       <description></description>
     </item>
     
